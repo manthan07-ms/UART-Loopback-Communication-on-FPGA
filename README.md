@@ -110,7 +110,7 @@ Embedded system interfacing
 
 🎥 Demo Video
 
-A short demonstration video showing UART transmission, internal TX–RX loopback operation, switch-based data input, and LED-based reception/status indication is available here: 
+A short demonstration video showing UART transmission, internal TX–RX loopback operation, switch-based data input, and LED-based reception/status indication is available here: https://drive.google.com/file/d/128muHMH5WitHpG9t_8cEoHdG3PZP7XNv/view?usp=sharing
 
 ✍️ Author
 
